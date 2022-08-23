@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: valiDol42
+Role: Founder, Administrator, Programmer
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: grey-ka
+Role: Founder, Administrator, Programmer
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: vdv
+Role: Administrator
