@@ -1,1 +1,2 @@
-A short introduction about your team
+Megastake Team!
+http://trx.megastake.space
