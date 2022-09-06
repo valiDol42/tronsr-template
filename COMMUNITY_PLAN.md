@@ -1,1 +1,1 @@
-Describe the plan to support the community
+We provide reliable work and stable income.
