@@ -1,2 +1,2 @@
 Megastake Team!
-http://trx.megastake.space
+http://trx.megastake.net
